@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Finger Paint";
+    background: #000;
 }
 
 section {
@@ -17,4 +18,16 @@ section {
     justify-content: center;
     align-items: center;
     background-attachment: fixed;
+}
+
+section h1 {
+ margin: 0;
+ padding: 0;
+ text-align: center;
+ font-size: 15em;
+ letter-spacing: 10px;
+ color: #fff;
+ background: #000;   
+ background-attachment: fixed;
+
 }

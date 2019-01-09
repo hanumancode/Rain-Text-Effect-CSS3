@@ -29,5 +29,6 @@ section h1 {
  color: #fff;
  background: #000;   
  background-attachment: fixed;
-
+ -webkit-background-attachment: text;
+ -webkit-text-fill-color: transparent;
 }
